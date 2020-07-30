@@ -1,6 +1,9 @@
 # integrating-spring-and-jsf
 
 ### We will be creating a simple web page that takes in the year, a month and a day of the month and determines which day of the week it is.
+#### Original tutorial from:
+
+https://medium.com/@tsepomaleka/integrating-spring-boot-with-java-server-faces-using-joinfaces-297e64f6a28f
 
 Stack: 
   - Java 8
@@ -18,12 +21,6 @@ The process is divided into 6 subtasks :
  6) Create a JSF Page
 
 
-Original tutorial from:
-
-https://medium.com/@tsepomaleka/integrating-spring-boot-with-java-server-faces-using-joinfaces-297e64f6a28f
-
-
-
 #### Screenshots of running program after visitting your port from application.properties
 
 ### Form
@@ -38,8 +35,3 @@ https://medium.com/@tsepomaleka/integrating-spring-boot-with-java-server-faces-u
 
 <img src="src/main/resources/images/result.png">
 
-
-
-Original tutorial from:
-
-https://medium.com/@tsepomaleka/integrating-spring-boot-with-java-server-faces-using-joinfaces-297e64f6a28f
