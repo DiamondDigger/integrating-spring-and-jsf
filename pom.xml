@@ -15,7 +15,7 @@
 	<description>A Spring Boot Project to integrate Spring with JSF</description>
 
 	<properties>
-		<java.version>11</java.version>
+		<java.version>8</java.version>
 <!--			1. Define the property for the JoinFaces version-->
 		<joinfaces.version>4.3.0</joinfaces.version>
 	</properties>
