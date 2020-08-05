@@ -1,6 +1,6 @@
 # integrating-spring-and-jsf
 
-### We will be creating a simple web page that takes in the year, a month and a day of the month and determines which day of the week it is.
+### We will create a simple web page that takes in the year, a month and a day of the month and determines which day of the week it is.
 #### Original tutorial from:
 
 https://medium.com/@tsepomaleka/integrating-spring-boot-with-java-server-faces-using-joinfaces-297e64f6a28f
